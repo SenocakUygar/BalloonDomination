@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2F462246-2A75-BCD5-4454-E7F0D941C83C}") = "Balloon Domination", "Assembly-CSharp.csproj", "{63C14CE4-C6B2-9085-B50E-CD7672B03010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C14CE4-C6B2-9085-B50E-CD7672B03010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C14CE4-C6B2-9085-B50E-CD7672B03010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C14CE4-C6B2-9085-B50E-CD7672B03010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C14CE4-C6B2-9085-B50E-CD7672B03010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
